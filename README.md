@@ -1,6 +1,6 @@
-**If you're taking this tutorial at a conference, please pull the repository 24 hours before the tutorial begins to make sure to have the most recent version!**
+**If you'd like to run the content of this repository in a sandbox with a pre-built Metaflow and Metaflow UI deployment, start [here](https://account.outerbounds.dev/account/?workspace=/home/workspace/workspaces/ob-full-stack-ml/workspace.code-workspace).**
 
-# full-stack-ML-metaflow-tutorial
+# `ob-full-stack-ml` repository
 
 
 One of the key questions in modern data science and machine learning, for businesses and practitioners alike, is how do you move machine learning projects from prototype and experiment to production as a repeatable process. In this workshop, we present an introduction to the landscape of production-grade tools, techniques, and workflows that bridge the gap between laptop data science and production ML workflows.
